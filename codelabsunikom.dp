@@ -1,0 +1,15 @@
+[Project]
+FileName=D:\pascal\codelabsunikom.dp
+Name=codelabsunikom
+MainUnit=D:\pascal\codelabs2.pas
+UnitCount=1
+ResFiles=D:\pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icons\Edit.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=D:\pascal\codelabs2.pas
+FileTime=1262970532
